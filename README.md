@@ -8,9 +8,9 @@ Chaque repository comprend un fichier README (rédaction en cours) qui explique 
 
 |Q|U|I||S|U|I|S||J|E|
 | - | - | - | - | - | - | - | - | - | - | - |
-| | | | |`P`| | | | |🐈‍⬛| |
+| | | | |`P`| | | | | | |
 | | | | |`A`| | | | | | |
-|🌞| |`C`|`U`|`R`|`I`|`E`|`U`|`S`|`E`| |
+| | |`C`|`U`|`R`|`I`|`E`|`U`|`S`|`E`| |
 | | | | |`T`| | | | |`M`| |
 |`C`| |`P`| |`A`| |`H`| | |`P`| |
 |`A`| |`E`| |`G`| |`O`| | |`A`| |
@@ -20,5 +20,5 @@ Chaque repository comprend un fichier README (rédaction en cours) qui explique 
 | | |`O`| | | |`T`| | |`Q`| |
 |`R`|`I`|`G`|`O`|`U`|`R`|`E`|`U`|`S`|`E`| |
 | | |`U`| | | | | | |`E`| |
-| | |`E`| | |❄️| | | | | |
-| |🌻| | | || | | | | |
+| | |`E`| | |❄ | | | | | |
+| | | | | || | | | | |
