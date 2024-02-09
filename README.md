@@ -8,7 +8,8 @@ Chaque repository comprend un fichier README (rédaction en cours) qui explique 
     <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/trait-diviseur.png">
 </p>
 
-|Q|U|I||S|U|I|S||J|E|
+<p align="center">
+    |Q|U|I||S|U|I|S||J|E|
 | - | - | - | - | - | - | - | - | - | - | - |
 | | | | |`P`| | | | | | |
 | | | | |`A`| | | | | | |
@@ -22,5 +23,7 @@ Chaque repository comprend un fichier README (rédaction en cours) qui explique 
 | | |`O`| | | |`T`| | |`Q`| |
 |`R`|`I`|`G`|`O`|`U`|`R`|`E`|`U`|`S`|`E`| |
 | | |`U`| | | | | | |`E`| |
-| | |`E`| | |❄ | | | | | |
+| | |`E`| | | | | | | | |
 | | | | | || | | | | |
+</p>
+
