@@ -4,7 +4,9 @@ Actuellement en formation pour obtenir mon titre de 🌸 Conceptrice Développeu
 
 Chaque repository comprend un fichier README (rédaction en cours) qui explique le concept et fonctionnement du dossier mais aussi une partie "carnet de bord" qui reprend mon avancée, mes difficultés, mes apprentissages !
 
-![alt text](https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/trait-diviseur.png)
+<p align="center" width="100%">
+    <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/trait-diviseur.png">
+</p>
 
 |Q|U|I||S|U|I|S||J|E|
 | - | - | - | - | - | - | - | - | - | - | - |
