@@ -7,7 +7,7 @@ Chaque repository comprend un fichier README (rédaction en cours) qui explique 
 
 |Q|U|I||S|U|I|S||J|E|
 | - | - | - | - | - | - | - | - | - | - | - |
-| | | | | | | | | | | |
+| | | | | |` `| | | | | |
 | | | | |`P`| | | | | | |
 | | | | |`A`| | | | | | |
 | | |`C`|`U`|`R`|`I`|`E`|`U`|`S`|`E`| |
