@@ -1,4 +1,4 @@
-![Cover]([https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/from.png](https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/cover.png))
+![Cover](https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/cover.png))
 
 ### Hi there 👋
 
