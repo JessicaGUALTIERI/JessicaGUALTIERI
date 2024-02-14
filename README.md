@@ -2,7 +2,7 @@
 
 Actuellement en formation pour obtenir mon titre de __Conceptrice Développeuse d'Applications__, je partage ici mes exercices et pratiques.
 
-Chaque repository comprend un fichier README (rédaction en cours) qui explique le concept et fonctionnement du projet mais aussi une partie "carnet de bord" qui reprend mes apprentissages et mes difficultés !
+Chaque repository comprend un fichier README qui explique le concept et fonctionnement du projet mais aussi une partie "carnet de bord" qui reprend mes apprentissages et mes difficultés !
 <p align="center" width="100%">
     <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/trait-diviseur.png">
 </p>
