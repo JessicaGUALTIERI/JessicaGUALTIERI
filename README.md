@@ -23,3 +23,7 @@ Chaque repository comprend un fichier README qui explique le concept et fonction
 |`R`|`I`|`G`|`O`|`U`|`R`|`E`|`U`|`S`|`E`| | |
 | | |`U`| | | | | | | | | |
 | | |`E`| | | | | | | | | |
+
+Voici la liste des dépôts de mes projets :
+![img](https://github.com/JessicaGUALTIERI/Le-Bon-Prix/blob/main/readme_img/accueil.png)
+* https://github.com/JessicaGUALTIERI/Le-Bon-Prix
