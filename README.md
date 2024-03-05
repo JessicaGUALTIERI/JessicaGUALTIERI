@@ -6,7 +6,7 @@ Chaque repository comprend un fichier README qui explique le concept et fonction
 <p align="center" width="100%">
     <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/trait-diviseur.png">
 </p>
-
+  
 |Q|U|I||S|U|I|S||J|E|?|
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | | | | |`P`|`A`|`T`|`I`|`E`|`N`|`T`|`E`|
@@ -24,6 +24,10 @@ Chaque repository comprend un fichier README qui explique le concept et fonction
 | | |`U`| | | | | | | | | |
 | | |`E`| | | | | | | | | |
 
+<p align="center" width="100%">
+    <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/trait-diviseur.png">
+</p>  
+  
 Voici la liste des dépôts de mes projets :
 ![img](https://github.com/JessicaGUALTIERI/Le-Bon-Prix/blob/main/readme_img/accueil.png)
 * https://github.com/JessicaGUALTIERI/Le-Bon-Prix
