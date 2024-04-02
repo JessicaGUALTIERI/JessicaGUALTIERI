@@ -32,11 +32,11 @@ Chaque repository comprend un fichier README qui explique le concept et fonction
 ### Le Bon Prix
 <p align="center" width="100%">
     <img src="https://github.com/JessicaGUALTIERI/Le-Bon-Prix/blob/main/readme_img/accueil.png" width="600">
-* https://github.com/JessicaGUALTIERI/Le-Bon-Prix
 </p>
+* https://github.com/JessicaGUALTIERI/Le-Bon-Prix
 
 ### Casse-briques
 <p align="center" width="100%">
     <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/casse-briques.png" width="300">
-* https://github.com/JessicaGUALTIERI/JAVA_Casse-briques
 </p>
+* https://github.com/JessicaGUALTIERI/JAVA_Casse-briques
