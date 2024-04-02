@@ -29,6 +29,10 @@ Chaque repository comprend un fichier README qui explique le concept et fonction
 </p>  
   
 ## Voici la liste des dépôts de mes projets :  
-  
+### Le Bon Prix
 ![img](https://github.com/JessicaGUALTIERI/Le-Bon-Prix/blob/main/readme_img/accueil.png)
 * https://github.com/JessicaGUALTIERI/Le-Bon-Prix
+
+### Casse-briques
+![img](https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/casse-briques.png)
+* https://github.com/JessicaGUALTIERI/JAVA_Casse-briques
