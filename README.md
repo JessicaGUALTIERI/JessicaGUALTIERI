@@ -30,7 +30,7 @@ Chaque repository comprend un fichier README qui explique le concept et fonction
   
 ## Voici la liste des dépôts de mes projets :  
 ### Le Bon Prix
-<img src="https://github.com/JessicaGUALTIERI/Le-Bon-Prix/blob/main/readme_img/accueil.png" width="300">
+<img src="https://github.com/JessicaGUALTIERI/Le-Bon-Prix/blob/main/readme_img/accueil.png" width="600">
 * https://github.com/JessicaGUALTIERI/Le-Bon-Prix
 
 ### Casse-briques
