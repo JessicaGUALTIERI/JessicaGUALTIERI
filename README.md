@@ -14,19 +14,19 @@ Chaque repository comprend un fichier README qui explique le concept et fonction
 <p align="center" width="100%">
     <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/pokedex.png" width="600">
 </p>
-* https://github.com/JessicaGUALTIERI/Pokedex
+* https://github.com/JessicaGUALTIERI/Pokedex  
 Projet tutoré suivi via YouTube avec découverte de React (première expérience).
 
 ### Le Bon Prix (PHP)
 <p align="center" width="100%">
     <img src="https://github.com/JessicaGUALTIERI/Le-Bon-Prix/blob/main/readme_img/accueil.png" width="600">
 </p>
-* https://github.com/JessicaGUALTIERI/Le-Bon-Prix
+* https://github.com/JessicaGUALTIERI/Le-Bon-Prix  
 Projet mené en autonomie pour utiliser PHP et réaliser un projet complet (front-end et back-end).
 
 ### Casse-briques (JAVA)
 <p align="center" width="100%">
     <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/casse-briques.png" width="300">
 </p>
-* https://github.com/JessicaGUALTIERI/JAVA_Casse-briques
+* https://github.com/JessicaGUALTIERI/JAVA_Casse-briques  
 Projet tutoré suivi via ma formation avec découverte de Java et première expérience de la programmation orientée objet.
