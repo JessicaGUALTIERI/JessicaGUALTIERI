@@ -29,19 +29,19 @@ Chaque repository comprend un fichier README qui explique le concept et fonction
 </p>  
   
 ## Voici la liste des dépôts de mes projets :  
-### Casse-briques
+### Pokédex (REACT)
 <p align="center" width="100%">
     <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/pokedex.png" width="600">
 </p>
 * https://github.com/JessicaGUALTIERI/Pokedex
 
-### Le Bon Prix
+### Le Bon Prix (PHP)
 <p align="center" width="100%">
     <img src="https://github.com/JessicaGUALTIERI/Le-Bon-Prix/blob/main/readme_img/accueil.png" width="600">
 </p>
 * https://github.com/JessicaGUALTIERI/Le-Bon-Prix
 
-### Casse-briques
+### Casse-briques (JAVA)
 <p align="center" width="100%">
     <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/casse-briques.png" width="300">
 </p>
