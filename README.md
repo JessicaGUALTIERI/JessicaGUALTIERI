@@ -1,4 +1,6 @@
-![Cover](https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/cover.png)
+<p align="center" width="100%">
+    <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/cover.png">
+</p>
 
 Actuellement en formation pour obtenir mon titre de __Conceptrice Développeuse d'Applications__, je partage ici mes exercices et pratiques.
 
