@@ -31,9 +31,9 @@ Chaque repository comprend un fichier README qui explique le concept et fonction
 ## Voici la liste des dépôts de mes projets :  
 ### Casse-briques
 <p align="center" width="100%">
-    <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/pokedex.png" width="300">
+    <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/pokedex.png" width="600">
 </p>
-* https://github.com/JessicaGUALTIERI/JAVA_Casse-briques](https://github.com/JessicaGUALTIERI/Pokedex
+* https://github.com/JessicaGUALTIERI/Pokedex
 
 ### Le Bon Prix
 <p align="center" width="100%">
