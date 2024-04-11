@@ -14,7 +14,7 @@ Chaque repository comprend un fichier README qui explique le concept et fonction
 <p align="center" width="100%">
     <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/pokedex.png" width="700">
 </p>
-Projet tutoré suivi via YouTube avec découverte de React (première expérience).  
+Projet tutoré suivi via YouTube avec découverte de React (première expérience) (toujours en cours).  
 https://github.com/JessicaGUALTIERI/Pokedex  
 
 ### Le Bon Prix (PHP, SASS, BOOTSTRAP)
