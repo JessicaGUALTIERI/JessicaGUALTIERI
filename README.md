@@ -14,16 +14,26 @@ Chaque repository comprend un fichier README qui explique le concept et fonction
 <p align="center" width="100%">
     <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/pokedex.png" width="600">
 </p>
-[Projet](https://github.com/JessicaGUALTIERI/Pokedex) tutoré suivi via YouTube avec découverte de React (première expérience).
+Projet tutoré suivi via YouTube avec découverte de React (première expérience).
+> https://github.com/JessicaGUALTIERI/Pokedex  
 
 ### Le Bon Prix (PHP)
 <p align="center" width="100%">
     <img src="https://github.com/JessicaGUALTIERI/Le-Bon-Prix/blob/main/readme_img/accueil.png" width="600">
 </p>  
-[Projet](https://github.com/JessicaGUALTIERI/Le-Bon-Prix) mené en autonomie pour utiliser PHP et réaliser un projet complet (front-end et back-end).
+Projet mené en totale autonomie pour utiliser PHP et réaliser un projet complet seule (front-end et back-end).
+> https://github.com/JessicaGUALTIERI/Le-Bon-Prix  
 
 ### Casse-briques (JAVA)
 <p align="center" width="100%">
     <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/casse-briques.png" width="300">
 </p>
-[Projet](https://github.com/JessicaGUALTIERI/JAVA_Casse-briques) tutoré suivi via ma formation avec découverte de Java et première expérience de la programmation orientée objet.
+Projet tutoré suivi via ma formation avec découverte de Java et première expérience de la programmation orientée objet.
+> https://github.com/JessicaGUALTIERI/JAVA_Casse-briques  
+
+### Mon premier portfolio (HTML, CSS & JAVASCRIPT)
+<p align="center" width="100%">
+    <img src="https://github.com/JessicaGUALTIERI/JessicaGUALTIERI/blob/main/%3Aimg/portfolio.png" width="300">
+</p>
+Projet tutoré suivi via ma pré-formation (via YouTube) avec découverte des langages web, premier code de ma vie !
+> https://github.com/JessicaGUALTIERI/My-first-portfolio  
