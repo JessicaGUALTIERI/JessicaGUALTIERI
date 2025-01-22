@@ -1,5 +1,10 @@
-###### [ENGLISH VERSION](#EN)
-###### [VERSION FRANÇAISE](#FR)
+<div align="center">
+  
+###### [ENGLISH VERSION](#EN) - [VERSION FRANÇAISE](#FR)
+</div>
+
+------------
+
 <div id='EN'/>
   
 # Junior C# developer looking for her first job !
