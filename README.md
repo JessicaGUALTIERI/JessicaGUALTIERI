@@ -19,7 +19,7 @@ To you, dear reader, if you have a moment, I’d love to hear your feedback on m
 [Practice](#ENPractice)
 
 <div id='ENAdventOfCode'/> 
-#### Advent of code 2023 & 2024 
+### Advent of code 2023 & 2024 
 <ins>Status:</ins> coding
 <ins>Stack:</ins> C#
 <ins>Description:</ins> "Advent of Code is an Advent calendar of small programming puzzles for a variety of skill levels that can be solved in any programming language you like. People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other." (src: https://adventofcode.com/2024/about)
@@ -28,7 +28,7 @@ To you, dear reader, if you have a moment, I’d love to hear your feedback on m
 > https://github.com/JessicaGUALTIERI/adventofcode2024
 
 <div id='ENAnimodle'/> 
-#### Animodle
+### Animodle
 <ins>Status:</ins> not started, idea
 <ins>Stack:</ins> C#, Angular/React (?), Tailwind
 <ins>Description:</ins> You may not be familiar with the concept of Loldle, Pokédle... It's a daily guessing challenge based on a specific theme (League of Legends, Pokémon) using precise characteristics (gender, size, release date...). Here, I aim to recreate this, but around the concept of animals!
@@ -37,7 +37,7 @@ To you, dear reader, if you have a moment, I’d love to hear your feedback on m
 > https://github.com/JessicaGUALTIERI/animodle
 
 <div id='ENDragoturkeyGeneticsCalculator'/> 
-#### DOFUS : Dragoturkey Genetics Calculator
+### DOFUS : Dragoturkey Genetics Calculator
 <ins>Status:</ins> conceptualization
 <ins>Stack:</ins> C# (MVC), EmguCV and Tesseract, Tailwind
 <ins>Description:</ins> Dofus is a French MMORPG. The characters can use mounts called Dragoturkeys. These mounts have different characteristics depending on their color and are born through breeders. Breeders must work with the genetics of Dragoturkeys to achieve certain desired colors. However, the calculation is not always easy and depends on the three previous generations (i.e., 14 Dragoturkeys per parent). I want to create a genetic calculator to get the percentage chance of obtaining a certain color based on the parents' family tree. But I don't want to ask the user to manually enter 30 colors! So, I will use OCR to analyze the screenshot provided and get quick results!
@@ -45,7 +45,7 @@ To you, dear reader, if you have a moment, I’d love to hear your feedback on m
 > https://github.com/JessicaGUALTIERI/DOFUS_DragoturkeyGeneticsCalculator
 
 <div id='ENGamesCollection'/> 
-#### Games collection
+### Games collection
 <ins>Status:</ins> paused
 <ins>Stack:</ins> Angular
 <ins>Description:</ins> This project is based on the video of @simpletech. This project is developed with Angular (1st experience) and it is the collection of my personal video games.
@@ -86,7 +86,7 @@ Vous qui me lisez, si vous trouvez un instant, faites moi un retour quant à mes
 [Practice](#FRPractice)
 
 <div id='FRAdventOfCode'/> 
-#### Advent of code 2023 & 2024 
+### Advent of code 2023 & 2024 
 <ins>Statut :</ins> code
 <ins>Technologie :</ins> C#
 <ins>Description :</ins> "Advent of Code est un calendrier de l'Avent composé de petits défis de programmation adaptés à différents niveaux de compétence, qui peuvent être résolus dans le langage de programmation de votre choix. Les gens les utilisent pour se préparer à des entretiens, pour des formations en entreprise, des cours universitaires, des exercices pratiques, des concours de rapidité ou pour se lancer des défis entre eux." (src: https://adventofcode.com/2024/about)
@@ -95,7 +95,7 @@ Vous qui me lisez, si vous trouvez un instant, faites moi un retour quant à mes
 > https://github.com/JessicaGUALTIERI/adventofcode2024
 
 <div id='FRAnimodle'/> 
-#### Animodle
+### Animodle
 <ins>Statut :</ins> pas encore commencé, idée
 <ins>Technologies :</ins> C#, Angular/React (?), Tailwind
 <ins>Description :</ins> Vous ne connaissez peut-être pas le concept Wordle, Loldle, Pokédle... Il s'agit d'un challenge quotidien de devinette autour d'un concept (vocabulaire, League Of Legends, Pokémon) via des caractéristiques précises (genre, taille, date de sortie...). Je souhaite ici recréer cela mais autour du concept des animaux !
@@ -104,7 +104,7 @@ Vous qui me lisez, si vous trouvez un instant, faites moi un retour quant à mes
 > https://github.com/JessicaGUALTIERI/animodle
 
 <div id='FRDragoturkeyGeneticsCalculator'/> 
-#### DOFUS : Dragoturkey Genetics Calculator
+### DOFUS : Dragoturkey Genetics Calculator
 <ins>Statut :</ins> en conception
 <ins>Technologies :</ins> C# (MVC), EmguCV and Tesseract, Tailwind
 <ins>Description :</ins> Dofus est un MMORPG français. Les personnages peuvent utiliser des montures appelées Dragodindes. Celles-ci ont des caractéristiques différentes selon leur couleur et naissent grâce à des éleveurs. Ceux-ci doivent jouer avec les génétiques des dragodindes afin d'obtenir certaines couleurs souhaitées. Seulement, le calcul n'est pas toujours facile et dépend des trois générations précédentes (soit 14 dragodindes par parent). Je veux créer un calculateur de génétiques afin d'obtenir le pourcentage de chance d'obtenir telle ou telle couleur selon l'arbre généalogique des parents ; mais je ne veux pas demander à l'utilisateur de rentrer manuellement 30 couleurs ! Je vais donc utiliser un OCR afin d'analyser la capture d'écran transmise et d'avoir des résultats rapides !
@@ -112,7 +112,7 @@ Vous qui me lisez, si vous trouvez un instant, faites moi un retour quant à mes
 > https://github.com/JessicaGUALTIERI/DOFUS_DragoturkeyGeneticsCalculator
 
 <div id='FRGamesCollection'/> 
-#### Games collection
+### Games collection
 <ins>Statut :</ins> en pause
 <ins>Technologie :</ins> Angular
 <ins>Description :</ins> Ce projet est basé sur la vidéo de @simpletech. Il est développé avec Angular (1ère expérience) et il s'agit d'une collection de mes jeux vidéos.
