@@ -8,16 +8,19 @@
 <div id='EN'/>
   
 # Junior C# developer looking for her first job !
-Former nurse, I decided to pursue a career change to become a developer: *from fighting COVID to fighting bugs*! I graduated in September 2024 with a Bachelor’s in Application Design and Development (specializing in C# .Net).
+Former nurse, I decided to pursue a career change to become a developer: *from fighting COVID to fighting bugs*! I graduated in September 2024 with a Bachelor’s in Application Design and Development (specializing in C# .Net). 👩‍⚕️➡️👩‍💻
 
-Today, I am eager to join a company that aligns with my values and professional aspirations: **respect, honesty, communication, and quality**! I hope to find a nurturing and supportive environment where I can develop my skills while working on exciting projects.
-
-Email: jessicagualtieri@hotmail.fr<br/>
-LinkedIn: https://www.linkedin.com/in/jessica-gualtieri/
+Today, I am eager to join a company that aligns with my values and professional aspirations: **respect, honesty, communication, and quality**! I hope to find a nurturing and supportive environment where I can develop my skills while working on exciting projects. 
 
 This GitHub showcases my personal projects, which vary in terms of completion and are all about: practice, learning through trial and error, and having fun! Below, you’ll find a list and a brief introduction to my repositories.
 
-To you, dear reader, if you have a moment, I’d love to hear your feedback on my projects: critiques, advice, comments! I want to improve and need your experiences to grow. See you soon!
+To you, dear reader, if you have a moment, I’d love to hear your feedback on my projects: critiques, advice, comments! I want to improve and need your experiences to grow. See you soon! 👋
+
+<br/>
+
+✉️ Email: jessicagualtieri@hotmail.fr<br/>
+👥 LinkedIn: https://www.linkedin.com/in/jessica-gualtieri/
+
 <br/><br/>
 ## Projects :
 [Advent of code 2023, 2024](#ENAdventOfCode) <br/>
@@ -40,7 +43,7 @@ To you, dear reader, if you have a moment, I’d love to hear your feedback on m
 #### [Animodle](https://github.com/JessicaGUALTIERI/animodle)
 <ins>Status:</ins> not started, idea <br/>
 <ins>Stack:</ins> C#, Angular/React (?), Tailwind <br/>
-<ins>Description:</ins> You may not be familiar with the concept of Loldle, Pokédle... It's a daily guessing challenge based on a specific theme (League of Legends, Pokémon) using precise characteristics (gender, size, release date...). Here, I aim to recreate this, but around the concept of animals!
+<ins>Description:</ins> You may not be familiar with the concept of Loldle, Pokédle... It's a daily guessing challenge based on a specific theme (League of Legends, Pokémon) using precise characteristics (gender, size, release date...). Here, I aim to recreate this, but around the concept of animals! <br/>
 <ins>Inspirations:</ins> https://loldle.net/classic - https://pokedle.net/
 
 <br/>
@@ -59,7 +62,7 @@ To you, dear reader, if you have a moment, I’d love to hear your feedback on m
 #### [Games collection](https://github.com/JessicaGUALTIERI/Games-collection)
 <ins>Status:</ins> paused <br/>
 <ins>Stack:</ins> Angular <br/>
-<ins>Description:</ins> This project is based on the video of @simpletech. This project is developed with Angular (1st experience) and it is the collection of my personal video games.
+<ins>Description:</ins> This project is based on the video of @simpletech. This project is developed with Angular (1st experience) and it is the collection of my personal video games. <br/>
 <ins>Inspirations:</ins> *simpletech* on YouTube https://eezyr.com/blog/simpletech/code/5 - https://youtu.be/U71TQN68QGU?si=QdvmihdrFkVhguK7
 
 <br/>
@@ -79,14 +82,19 @@ To you, dear reader, if you have a moment, I’d love to hear your feedback on m
 <div id='FR'/>
   
 # Développeuse C# junior recherchant son premier emploi !
-Ancienne infirmière, j'ai entrepris une reconversion pour devenir développeuse : *de combattante du covid à combattante de bugs* ! J'ai été diplômée en septembre 2024 d'un Bachelor en Conception Développement d'Applications (spécialisation C# .Net). Je souhaite aujourd'hui rejoindre une société en accord avec mes valeurs et attentes professionnelles : **respect, honnêteté, communication et qualité** ! J'espère trouver un endroit formateur et bienveillant où je développerai mes capacités autour de projets passionnants !
+Ancienne infirmière, j'ai entrepris une reconversion pour devenir développeuse : *de combattante du covid à combattante de bugs* ! J'ai été diplômée en septembre 2024 d'un Bachelor en Conception Développement d'Applications (spécialisation C# .Net). 👩‍⚕️➡️👩‍💻
 
-Mail: jessicagualtieri@hotmail.fr <br/>
-Linkedin: https://www.linkedin.com/in/jessica-gualtieri/
+Je souhaite aujourd'hui rejoindre une société en accord avec mes valeurs et attentes professionnelles : **respect, honnêteté, communication et qualité** ! J'espère trouver un endroit formateur et bienveillant où je développerai mes capacités autour de projets passionnants !
 
 Ce GitHub reprend mes projets personnels plus ou moins aboutis qui servent : la pratique, l'apprentissage par l'erreur, l'amusement ! Je vous fais une liste et une courte présentation de mes dépôts.
 
-Vous qui me lisez, si vous trouvez un instant, faites moi un retour quant à mes projets : critiques, conseils, remarques ! Je veux progresser et j'ai besoin de vos expériences pour y arriver. A bientôt !
+Vous qui me lisez, si vous trouvez un instant, faites moi un retour quant à mes projets : critiques, conseils, remarques ! Je veux progresser et j'ai besoin de vos expériences pour y arriver. A bientôt ! 👋
+
+<br/>
+
+✉️ Email: jessicagualtieri@hotmail.fr<br/>
+👥 LinkedIn: https://www.linkedin.com/in/jessica-gualtieri/
+
 <br/><br/>
 ## Projects :
 [Advent of code 2023, 2024](#FRAdventOfCode) <br/>
