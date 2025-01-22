@@ -96,7 +96,7 @@ Vous qui me lisez, si vous trouvez un instant, faites moi un retour quant à mes
 👥 LinkedIn: https://www.linkedin.com/in/jessica-gualtieri/
 
 <br/><br/>
-## Projects :
+## Projets :
 [Advent of code 2023, 2024](#FRAdventOfCode) <br/>
 [Animodle](#FRAnimodle) <br/>
 [DOFUS : Dragoturkey Genetics Calculator](#FRDragoturkeyGeneticsCalculator) <br/>
