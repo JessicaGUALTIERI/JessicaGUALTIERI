@@ -12,7 +12,7 @@ Former nurse, I decided to pursue a career change to become a developer: *from f
 
 Today, I am eager to join a company that aligns with my values and professional aspirations: **respect, honesty, communication, and quality**! I hope to find a nurturing and supportive environment where I can develop my skills while working on exciting projects.
 
-Email: jessicagualtieri@hotmail.fr
+Email: jessicagualtieri@hotmail.fr<br/>
 LinkedIn: https://www.linkedin.com/in/jessica-gualtieri/
 
 This GitHub showcases my personal projects, which vary in terms of completion and are all about: practice, learning through trial and error, and having fun! Below, you’ll find a list and a brief introduction to my repositories.
@@ -81,7 +81,7 @@ To you, dear reader, if you have a moment, I’d love to hear your feedback on m
 # Développeuse C# junior recherchant son premier emploi !
 Ancienne infirmière, j'ai entrepris une reconversion pour devenir développeuse : *de combattante du covid à combattante de bugs* ! J'ai été diplômée en septembre 2024 d'un Bachelor en Conception Développement d'Applications (spécialisation C# .Net). Je souhaite aujourd'hui rejoindre une société en accord avec mes valeurs et attentes professionnelles : **respect, honnêteté, communication et qualité** ! J'espère trouver un endroit formateur et bienveillant où je développerai mes capacités autour de projets passionnants !
 
-Mail: jessicagualtieri@hotmail.fr
+Mail: jessicagualtieri@hotmail.fr <br/>
 Linkedin: https://www.linkedin.com/in/jessica-gualtieri/
 
 Ce GitHub reprend mes projets personnels plus ou moins aboutis qui servent : la pratique, l'apprentissage par l'erreur, l'amusement ! Je vous fais une liste et une courte présentation de mes dépôts.
