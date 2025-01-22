@@ -1,4 +1,7 @@
-###### [ENGLISH VERSION]
+###### [ENGLISH VERSION](#EN)
+###### [VERSION FRANÇAISE](#FR)
+<div id='EN'/>
+  
 # Junior C# developer looking for her first job !
 Former nurse, I decided to pursue a career change to become a developer: *from fighting COVID to fighting bugs*! I graduated in September 2024 with a Bachelor’s in Application Design and Development (specializing in C# .Net).
 
@@ -68,7 +71,8 @@ To you, dear reader, if you have a moment, I’d love to hear your feedback on m
 
 <br/>
 
-###### [VERSION FRANÇAISE]
+<div id='FR'/>
+  
 # Développeuse C# junior recherchant son premier emploi !
 Ancienne infirmière, j'ai entrepris une reconversion pour devenir développeuse : *de combattante du covid à combattante de bugs* ! J'ai été diplômée en septembre 2024 d'un Bachelor en Conception Développement d'Applications (spécialisation C# .Net). Je souhaite aujourd'hui rejoindre une société en accord avec mes valeurs et attentes professionnelles : **respect, honnêteté, communication et qualité** ! J'espère trouver un endroit formateur et bienveillant où je développerai mes capacités autour de projets passionnants !
 
